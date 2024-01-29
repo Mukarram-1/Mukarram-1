@@ -1,13 +1,13 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mukarram Ahmad
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mukarram Ahmad
 ======================================================================================================================================
 Web Developer
 --------------------
 
-I am learning and working as a web developer
+I am working as a web developer
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [mukarram022@gmail.com](mailto:mukarram022@gmail.com)
-* 🧠  I'm learning web development
+* 🧠  I'm learning full stack development
 * 🤝  I'm open to collaborate on Web Development
 * ⚡  I have worked on C++, C, mySQL, node.js, express.js and react.js
 
