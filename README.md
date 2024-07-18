@@ -13,7 +13,7 @@ I am working as a web developer
 * 🤝  I'm open to collaborate on Web Development
 * ⚡  I have worked on C++, C, mySQL, node.js, express.js and react.js
 
-## ⚙️ Tools & Technologies Used
+## ⚙️ Tools & Technologies I have Worked On
 
 <!--
 <p align="left">
