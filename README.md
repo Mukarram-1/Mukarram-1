@@ -11,7 +11,7 @@ I am working as a web developer
 * ✉️  You can contact me at [mukarram022@gmail.com](mailto:mukarram022@gmail.com)
 * 🧠  I'm learning full stack development
 * 🤝  I'm open to collaborate on Web Development
-* ⚡  I have worked on C++, C, mySQL, node.js, express.js and react.js
+* ⚡  I have worked on C++, C, mySQL, node.js, express.js, REACT.js, NEXT JS
 
 ## ⚙️ Tools & Technologies I have Worked On
 
