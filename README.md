@@ -2,16 +2,21 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mukarram Ahmad
 ======================================================================================================================================
-Web Developer
+Software Engineer
 --------------------
 
-I am working as a web developer
+I am working as a Software Engineer
 
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [mukarram022@gmail.com](mailto:mukarram022@gmail.com)
-* 🧠  I'm learning full stack development
-* 🤝  I'm open to collaborate on Web Development
-* ⚡  I have worked on C++, C, mySQL, node.js, express.js, REACT.js, NEXT JS
+* 🌍 I'm based in Lahore, Pakistan
+* 💻 I'm a Software Engineer specializing in Full-Stack Web Development
+* 🚀 I build scalable web applications using **MERN Stack, Next.js, and NestJS**
+* 🛠️ Experienced with **React.js, Next.js, Node.js, Express.js, NestJS, TypeScript, and JavaScript**
+* 🗄️ Experienced with **MongoDB, PostgreSQL, MySQL, Prisma, and Mongoose**
+* 🤖 Interested in **AI/ML, LLM applications, automation, and AI-powered products**
+* ☁️ Familiar with **Docker, AWS, CI/CD, GitHub Actions, Redis, and REST APIs**
+* 🤝 I'm open to collaborating on **Web Development, Full-Stack, and AI-powered projects**
+* 📚 Always learning and exploring **modern web technologies, system design, and AI**
+* ✉️ You can contact me at **[mukarram022@gmail.com](mailto:mukarram022@gmail.com)**
 
 ## ⚙️ Tools & Technologies I have Worked On
 
